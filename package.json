@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^1.28.5",
-    "axios": "^0.24.0",
+    "axios": "^1.6.4",
     "dotenv": "^10.0.0"
   }
 }
